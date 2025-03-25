@@ -1,20 +1,6 @@
 {
-  "Licensing": {
-    "schemaVersion": "v28.2.1",
-    "label": "build",
-    "message": "✅ 358 tests passed (42 failed)",
-    "color": "107C10"
-  },
-  "Vinoth": {
-    "schemaVersion": "v28.2.1",
-    "label": "build",
-    "message": "✅ 31548 tests passed (0 failed)",
-    "color": "107C10"
-  },
-  "Valan": {
-    "schemaVersion": "v28.2.1",
-    "label": "build",
-    "message": "✅ 3158 tests passed (2 failed)",
-    "color": "107C10"
-  }
+  "schemaVersion": 1,
+  "label": "build",
+  "message": "✅ 358 tests passed (42 failed)",
+  "color": "107C10"
 }
